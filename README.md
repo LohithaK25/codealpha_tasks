@@ -40,6 +40,7 @@ This is a simple Sudoku solver implemented in C++.
 ### Input Format :
 The input Sudoku puzzle should be provided as a 9x9 grid where empty cells are represented by zeros (0).
 For example,
+![Screenshot 2024-03-30 224359](https://github.com/LohithaK25/codealpha_tasks/assets/139645653/b950567a-7659-4c16-888f-c6fc20fe49db)
 
 ### Output Format :
 The solver will output the solved Sudoku puzzle in the same format as the input, displaying the solution or indicating if no solution exists.
